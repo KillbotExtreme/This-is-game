@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "6e3c459a-9894-470f-bc75-b5b039f9e14a",
+            "Value": {
+                "id": "98fb13ea-b551-47e5-9f6d-a8c1e029f0ff",
+                "resourcePath": "sprites\\bobbo\\bobbo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "722405b2-d749-4446-ac94-9ba1fc462984",
             "Value": {
                 "id": "0c75935a-84f6-4603-91d0-2400747d5c70",
