@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "5d41bc26-d2c0-455d-86c6-00ba653812f3",
+            "Value": {
+                "id": "3160674e-e2e1-4e40-8b69-226297a299fd",
+                "resourcePath": "sprites\\spr_ASMALLGREENMAN\\spr_ASMALLGREENMAN.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "69be7a0b-79a2-4bcf-9f4a-17a0fe58c576",
             "Value": {
                 "id": "57ae86ac-3bd0-4477-b5fa-b33523e53b6a",
