@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "957bebcc-eb33-4be1-aa5a-7dd93b1a1b26",
+            "Value": {
+                "id": "7ae523f1-2aca-4d31-8f9a-c7f6127a4442",
+                "resourcePath": "objects\\obj_squigg\\obj_squigg.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a69261eb-50d0-447d-9491-8dc36d7f7247",
             "Value": {
                 "id": "d0fb5374-6afa-4db7-837c-506d5f3af216",
