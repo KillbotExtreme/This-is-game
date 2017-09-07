@@ -4,3 +4,4 @@ instance_destroy();
 //bobbo sucks
 //blim blam
 //45
+//bing for life
